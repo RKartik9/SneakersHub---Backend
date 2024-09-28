@@ -7,6 +7,7 @@
 ## 🛠️ Technologies Used
 
 ### Backend:
+
 - **Node.js** - JavaScript runtime for backend services
 - **Express** - Fast and minimal web framework for Node.js
 - **MongoDB** - NoSQL database for backend data management
@@ -29,20 +30,27 @@
 
 ---
 
+![UrbanKart Logo](./assets/sneaker-main.jpg)
+![UrbanKart Logo](./assets/sneaker-products.jpg)
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository:
+
 ```bash
 git clone https://github.com/RKartik9/SneakersHub---Backend/
 ```
 
 ### 2. Install dependencies:
+
 Navigate to the project directory and run:
+
 ```bash
 npm install
 ```
 
 ### 3. Run the backend server:
+
 ```bash
 npm start
 ```
